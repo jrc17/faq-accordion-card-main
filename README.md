@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution](https://github.com/jrc17/faq-accordion-card-main)
+- [Live Site](https://jrc17.github.io/faq-accordion-card-main/)
 
 ## My Process
 
